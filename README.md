@@ -571,9 +571,3 @@ After completing this project, you will understand:
 - AI-assisted DevOps workflows
 
 ---
-
-# License
-
-This project is intended for educational purposes as part of the **TrainWithShubham Agentic AI for DevOps Masterclass**.
-
-Feel free to fork, modify, and extend it for your own learning and experimentation.
