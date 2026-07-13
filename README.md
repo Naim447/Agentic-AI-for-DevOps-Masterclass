@@ -4,7 +4,7 @@ A simple **LangChain AI Agent** that uses a **local Large Language Model (LLM)**
 
 This project demonstrates how to build an **Agentic AI** application for DevOps engineers, where the AI can interact with real infrastructure instead of only generating text.
 
-Built as part of the **TrainWithShubham Masterclass**.
+Built as part of the **Masterclass**.
 
 ---
 
